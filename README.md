@@ -3,7 +3,7 @@
 Glo Media Player is a list of scripts used to visualize video and image files in [Διερμηνευτής της ΓΛΩΣΣΑΣ](https://alkisg.mysch.gr/)(a Greek pseudo-language environment). Visualization is done by converting the file to ascii text based on the brightness of each pixel, then encoding it in a way ΓΛΩΣΣΑ understands. 
 
 ## How does encoding work?
-The file encoding is based on [Run-length encoding](https://en.wikipedia.org/wiki/Run-length_encoding) getting advantage of the fact a lot of pixels are going to repeat due to the small amount of different characters supported(7 characters). Because ΓΛΩΣΣΑ doesn't support text manipulation(such as indexing text, splitting text, etc.) the only way of storing data I found was inside numbers that have a length of 19 digits(64 bit). The numbers are stored in sequence inside an array.
+The file encoding is based on [Run-length encoding](https://en.wikipedia.org/wiki/Run-length_encoding) getting advantage of the fact a lot of pixels are going to repeat due to the small amount of different characters supported(7 characters). Because ΓΛΩΣΣΑ doesn't support text manipulation(such as indexing text, splitting text, etc.) the only way of storing data I found was inside numbers that have a length of 19 digits(64 bit). The numbers are then stored in sequence inside an array.
 
 ### data encoding:
 **image sep** = **9** (used to split images)  
