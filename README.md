@@ -1,4 +1,4 @@
-# Glo-Media-Player
+# ![alt text](https://sites.google.com/site/aeppbasikesepexergasiespinakon/_/rsrc/1543077082805/diermeneutes-tes-glossas/867519228d1d5325856fc61d710ded0e_XL.jpg?height=28&width=28) Glo-Media-Player
 
 Glo Media Player is a list of scripts used to visualize video and image files in [Διερμηνευτής της ΓΛΩΣΣΑΣ](https://alkisg.mysch.gr/)(a Greek pseudo-language environment). Visualization is done by converting the file to ascii text based on the brightness of each pixel, then encoding it in a way ΓΛΩΣΣΑ understands. 
 
