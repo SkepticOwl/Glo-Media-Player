@@ -2,7 +2,7 @@
 
 Glo Media Player is a list of scripts used to visualize video and image files in [Διερμηνευτής της ΓΛΩΣΣΑΣ](https://alkisg.mysch.gr/)(a Greek pseudo-language environment). Visualization is done by converting the file to ascii text based on the brightness of each pixel, then encoding it in a way ΓΛΩΣΣΑ understands. 
 
-## Videos
+### Videos
 I created two videos using this tool, both available on youtube:  
 **[Bad Apple](https://youtu.be/0qGPYt4pong)** (10 hours run time | 30 FPS)  
 **[Stickman Fight](https://youtu.be/TiSbY5PJcZg)** (4 hours run time | 30 FPS)  
