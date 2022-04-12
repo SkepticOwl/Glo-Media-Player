@@ -4,8 +4,8 @@ Glo Media Player is a list of scripts used to visualize video and image files in
 
 ### Videos
 I created two videos using this tool, both available on youtube:  
-**[Bad Apple](https://youtu.be/0qGPYt4pong)** (10 hours run time | 30 FPS)  
-**[Stickman Fight](https://youtu.be/TiSbY5PJcZg)** (4 hours run time | 30 FPS)  
+**[Bad Apple](https://youtu.be/0qGPYt4pong)** (10 hours loading time | 30 FPS)  
+**[Stickman Fight](https://youtu.be/TiSbY5PJcZg)** (4 hours loading time | 30 FPS)  
 
 
 ## How does encoding work?
